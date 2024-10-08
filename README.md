@@ -51,7 +51,4 @@ Ensure you have the following before starting the project:
 - **Incorrect Voltage Output**: Verify the settings on the potentiometer and check for faulty components.
 - **Overheating**: Ensure the current limit is set appropriately to avoid overheating components.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
